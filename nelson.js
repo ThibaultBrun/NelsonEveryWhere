@@ -6,10 +6,10 @@
 		
 		$.extend(self, {
 			nelsonImgs : [
-			'https://ibb.co/gMnKtfM',
-			'https://ibb.co/GxZhzft',
-			'https://ibb.co/Qmj1SV6',
-			'https://ibb.co/PjxV3H1'
+			'https://i.ibb.co/qMZQmcM/nelson-pg-removebg-preview-3.png',
+			'https://i.ibb.co/dWNh8sL/nelson-pg-removebg-preview.png',
+			'https://i.ibb.co/dKJzCvQ/56-C5-C6-F4-5-FCE-4096-8-C91-D780-C19-FA434.jpg',
+			'https://i.ibb.co/Gp7rBSC/EE44-C220-1-FE4-4-D91-B110-E8-F87-D73-FFEF.jpg'
 			],
 			handleImages : function (lstImgs, time)
 			{
