@@ -1,11 +1,11 @@
 (function() {
-	//nCage 
+	//nelson 
 	var main = function($) { 
 		
-		var self = $.nCage = new function(){};
+		var self = $.nelson = new function(){};
 		
 		$.extend(self, {
-			nCageImgs : [
+			nelsonImgs : [
 			'http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Nicolas_Cage_2011_CC.jpg/220px-Nicolas_Cage_2011_CC.jpg',
 			'http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nicolas_Cage_-_66%C3%A8me_Festival_de_Venise_(Mostra).jpg/220px-Nicolas_Cage_-_66%C3%A8me_Festival_de_Venise_(Mostra).jpg',
 			'http://content8.flixster.com/rtactor/40/33/40334_pro.jpg',
@@ -74,7 +74,7 @@
 
 		//Run on jQuery ready
 		$(function(){
-			self.handleImages(self.nCageImgs, 3000);
+			self.handleImages(self.nelsonImgs, 3000);
 		});
 	};
 
